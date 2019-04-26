@@ -48,7 +48,7 @@
    </string>
 
     <!-- Maps -->
-    <string name="api_key">AIzaSyCmniVYVmg3fux0bA-3Qi5xTdpc5tAZaGg</string>
+    <string name="api_key">API_KEY_VALUE</string>
 
     <!--Rider Activity-->
     <string name="maps_link">Maps</string>
