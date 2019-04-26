@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">CarPool</string>
+
+    <!-- SignIn Screen-->
+    <string name="username">Username</string>
+    <string name="username_hint">lpadhu@gmail.com</string>
+    <string name="password">Password</string>
+    <string name="password_hint">itmd555</string>
+    <string name="empty"> </string>
+    <string name="signin">Sign-In</string>
+    <string name="signup">Sign-Up</string>
+    <string name="dsignup">Driver Sign-Up</string>
+    <string name="rsignup">Rider Sign-Up</string>
+    <string name="new_member">New user?</string>
+    <string name="driver_member">Driver</string>
+    <string name="rider_member">Rider</string>
+
+    <!-- SignUp Screen Common-->
+    <string name="username_box">Enter an email-id</string>
+    <string name="username_box_hint">Should contain "'@' followed by '.com'"</string>
+    <string name="password_box">Create a password</string>
+    <string name="password_box_hint">Must be atleast 6 characters long</string>
+    <string name="name">Name</string>
+    <string name="name_hint">John Doe</string>
+    <string name="phone">Phone.No</string>
+    <string name="phone_hint">Enter 10 digits</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Driver Sign-up-->
+    <string name="role">Role</string>
+    <string name="ownCar">I have a car to give rides</string>
+    <string name="needCar">I need a car to take rides</string>
+    <string name="destination">Destination</string>
+    <string name="destination_hint">Enter a landmark</string>
+    <string name="time">Time</string>
+    <string name="time_hint">8:00am</string>
+    <string name="example">E.g Union Station</string>
+    <string name="save">Save and Continue </string>
+    <string name="setup">Profile Set-Up</string>
+    <string name="address">Address</string>
+
+    <!-- Test Activity-->
+    <string name="information">
+       Thank you for signing up with us and promising to help the community."\n"
+       Your information has been recorded."\n"Riders will contact you if they are close-by "\n\n\n"
+       Happy Driving !!!
+   </string>
+
+    <!-- Maps -->
+    <string name="api_key">AIzaSyCmniVYVmg3fux0bA-3Qi5xTdpc5tAZaGg</string>
+
+    <!--Rider Activity-->
+    <string name="maps_link">Maps</string>
+    <string name="logout">Logout</string>
+    <string name="add_list">List of Addresses</string>
+
+</resources>
